@@ -1,5 +1,5 @@
 # NLP_CW
 
-Work locally when writing code as normal 
+Contains various Jupyter Notebooks representing the different sections in our report.
 
-Use Colab for testing
+All files run in Colab, additional libraries and data are downloaded as part of the code.
